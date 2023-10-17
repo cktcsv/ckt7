@@ -1,0 +1,2 @@
+name,enabled,element,terminal,excess,radial,voltage_only,kva_normal,kva_emerg,peak_currents
+25607,true,line.333,1,true,true,false,0,0,[ 272.4 243.4 272 ]
