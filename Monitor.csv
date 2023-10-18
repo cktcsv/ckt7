@@ -1,4 +1,4 @@
 name,enabled,element,terminal,value,sequence,magnitude,pos_seq,residual,p_polar
-ckt7_totalizedmonitor,true,line.333,2,powers,false,false,false,false,true
+ckt7_totalizedmonitor,true,line.333,2,power,false,false,false,false,true
 ckt7_mon,true,line.333,1,voltage_current,false,false,false,true,true
-ckt7_mon_p,true,line.333,1,powers,false,false,false,false,false
+ckt7_mon_p,true,line.333,1,power,false,false,false,false,false
